@@ -11,7 +11,7 @@ SDX does more than simply replace an IXP’s switches with their OpenFlow counte
 
 We are involved in several trial deployments of the SDX controller at various IXPs around the world, in collaboration with network operators.
 
-The license for the project will be OSSDN Apache 2.0, and all documents will be licenced Creative Commons CC4.0 BY.
+The license for the project is OSSDN Apache 2.0, and all documents will be licenced Creative Commons CC4.0 BY.
 
 More information about the project is located on the website, http://sdx.cs.princeton.edu/
 
